@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECOLET GROUP | Forex, Gold, Crypto XRP & Synthetics | 24/7 Global Hub</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        @keyframes marquee { 0% { transform: translateX(100%); } 100% { transform: translateX(-100%); } }
+        .animate-marquee { display: inline-block; animation: marquee 20s linear infinite; }
+        .glass { background: rgba(15, 23, 42, 0.9); backdrop-filter: blur(15px); }
+        .glow-border { border: 1px solid rgba(59, 130, 246, 0.5); box-shadow: 0 0 15px rgba(59, 130, 246, 0.2); }
+    </style>
+</head>
+<body class="bg-[#05070a] text-slate-300 font-sans selection:bg-blue-600">
+
+    <div class="fixed top-0 w-full bg-black border-b border-blue-900/60 py-3 z-[1000] overflow-hidden">
+        <div class="animate-marquee whitespace-nowrap flex items-center space-x-16">
+            <span class="text-[11px] font-black uppercase tracking-widest text-white"><i class="fas fa-chart-line text-blue-500 mr-2"></i>FOREX: <span class="text-emerald-400">MASTER LOOP ACTIVE</span></span>
+            <span class="text-[11px] font-black uppercase tracking-widest text-white"><i class="fas fa-coins text-yellow-500 mr-2"></i>GOLD (XAUUSD): <span class="text-emerald-400">100 PIPS HUNTING</span></span>
+            <span class="text-[11px] font-black uppercase tracking-widest text-white"><i class="fab fa-edge text-blue-400 mr-2"></i>CRYPTO (XRP): <span class="text-blue-400">INSTITUTIONAL SYNC</span></span>
+            <span class="text-[11px] font-black uppercase tracking-widest text-white"><i class="fas fa-bolt text-purple-500 mr-2"></i>SYNTHETICS: <span class="text-emerald-400">24/7 TRADING LIVE</span></span>
+            <span class="text-[11px] font-black uppercase tracking-widest text-white"><i class="fas fa-shield-alt text-red-500 mr-2"></i>SAFETY: <span class="text-red-500">30% EQUITY SHIELD ACTIVE</span></span>
+        </div>
+    </div>
+
+    <nav class="pt-20 pb-8 px-10 flex justify-between items-center max-w-7xl mx-auto">
+        <div class="text-3xl font-black italic tracking-tighter text-white">ECOLET <span class="text-blue-600">GROUP</span></div>
+        <div class="hidden lg:flex space-x-10 text-[10px] font-black uppercase tracking-[0.3em] text-slate-500">
+            <a href="#fx" class="hover:text-white transition">Ecolet FX</a>
+            <a href="#subsidiaries" class="hover:text-white transition">Subsidiaries</a>
+            <a href="#hq" class="hover:text-white transition">Eneka HQ</a>
+        </div>
+    </nav>
+
+    <section class="py-24 px-8 text-center max-w-6xl mx-auto">
+        <h1 class="text-6xl md:text-9xl font-black text-white leading-[0.9] uppercase italic tracking-tighter mb-10">
+            Global <span class="text-blue-600">Asset</span> <br> Mastery.
+        </h1>
+        <p class="text-sm md:text-base font-bold uppercase tracking-[0.5em] text-slate-400 mb-14">
+            Forex • Gold • Crypto (XRP) • Synthetics
+        </p>
+        <div class="flex flex-wrap justify-center gap-6">
+            <a href="https://wa.me/2348039508520" class="bg-blue-600 text-white px-12 py-6 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-white hover:text-blue-600 transition-all glow-border">Start 24/7 Replication</a>
+            <a href="mailto:info@ecoletgroup.com" class="border border-white/20 bg-white/5 text-white px-12 py-6 rounded-2xl font-black text-xs uppercase tracking-widest hover:bg-white hover:text-black transition-all">Corporate Inquiry</a>
+        </div>
+    </section>
+
+    <section id="fx" class="py-24 px-8 max-w-7xl mx-auto border-y border-white/5">
+        <div class="text-center mb-16">
+            <h2 class="text-3xl font-black text-white uppercase italic mb-4">Ecolet FX Master-Slave Protocol</h2>
+            <p class="text-xs font-black tracking-widest text-blue-500">REPLICATING SUCCESS ACROSS ALL LIQUID MARKETS</p>
+        </div>
+        <div class="grid md:grid-cols-4 gap-4">
+            <div class="p-8 glass rounded-[2rem] border border-white/5 text-center">
+                <i class="fas fa-euro-sign text-2xl text-blue-500 mb-4"></i>
+                <h4 class="font-black text-white uppercase text-xs mb-2">Forex</h4>
+                <p class="text-[10px] text-slate-500 leading-relaxed font-bold">Major & Minor pairs. 24/5 replication.</p>
+            </div>
+            <div class="p-8 glass rounded-[2rem] border border-blue-500/30 text-center glow-border">
+                <i class="fas fa-coins text-2xl text-yellow-500 mb-4"></i>
+                <h4 class="font-black text-white uppercase text-xs mb-2">Gold</h4>
+                <p class="text-[10px] text-slate-500 leading-relaxed font-bold">XAUUSD 100-pip target specialty.</p>
+            </div>
+            <div class="p-8 glass rounded-[2rem] border border-white/5 text-center">
+                <i class="fab fa-edge text-2xl text-blue-400 mb-4"></i>
+                <h4 class="font-black text-white uppercase text-xs mb-2">Crypto (XRP)</h4>
+                <p class="text-[10px] text-slate-500 leading-relaxed font-bold">24/7 XRP & Bitcoin volatility loops.</p>
+            </div>
+            <div class="p-8 glass rounded-[2rem] border border-white/5 text-center">
+                <i class="fas fa-bolt text-2xl text-purple-500 mb-4"></i>
+                <h4 class="font-black text-white uppercase text-xs mb-2">Synthetics</h4>
+                <p class="text-[10px] text-slate-500 leading-relaxed font-bold">Algorithmic Technical Flow. 24/7.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="subsidiaries" class="py-24 px-8 max-w-7xl mx-auto">
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <div class="group">
+                <p class="text-[10px] font-black text-blue-600 mb-1 uppercase tracking-tighter">Real Estate</p>
+                <h3 class="text-xl font-black text-white uppercase group-hover:text-blue-500 transition">Ecolet Real Estate Ltd</h3>
+                <p class="text-[9px] text-slate-600 font-black tracking-widest mt-2 uppercase">ecoletrealestate@ecoletgroup.com</p>
+            </div>
+            <div class="group">
+                <p class="text-[10px] font-black text-blue-600 mb-1 uppercase tracking-tighter">Aluminium & Steel</p>
+                <h3 class="text-xl font-black text-white uppercase group-hover:text-blue-500 transition">Worldwide Aluminium</h3>
+                <p class="text-[9px] text-slate-600 font-black tracking-widest mt-2 uppercase">worldwidealuminium@ecoletgroup.com</p>
+            </div>
+            <div class="group">
+                <p class="text-[10px] font-black text-blue-600 mb-1 uppercase tracking-tighter">Civil Engineering</p>
+                <h3 class="text-xl font-black text-white uppercase group-hover:text-blue-500 transition">Thomolive Construction</h3>
+                <p class="text-[9px] text-slate-600 font-black tracking-widest mt-2 uppercase">thomoilveconstruction@ecoletgroup.com</p>
+            </div>
+            <div class="group">
+                <p class="text-[10px] font-black text-blue-600 mb-1 uppercase tracking-tighter">Energy & Logistics</p>
+                <h3 class="text-xl font-black text-white uppercase group-hover:text-blue-500 transition">Ecolet Worldwide Integrated</h3>
+                <p class="text-[9px] text-slate-600 font-black tracking-widest mt-2 uppercase">ecoletworldwideintegrated@ecoletgroup.com</p>
+            </div>
+            <div class="group">
+                <p class="text-[10px] font-black text-blue-600 mb-1 uppercase tracking-tighter">Global Trade</p>
+                <h3 class="text-xl font-black text-white uppercase group-hover:text-blue-500 transition">Erichib International</h3>
+                <p class="text-[9px] text-slate-600 font-black tracking-widest mt-2 uppercase">erichibinternational@ecoletgroup.com</p>
+            </div>
+            <div class="group">
+                <p class="text-[10px] font-black text-blue-600 mb-1 uppercase tracking-tighter">Corporate Growth</p>
+                <h3 class="text-xl font-black text-white uppercase group-hover:text-blue-500 transition">Ecolet Business Support</h3>
+                <p class="text-[9px] text-slate-600 font-black tracking-widest mt-2 uppercase">ecoletbusinesssupport@ecoletgroup.com</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="hq" class="py-24 px-8 max-w-7xl mx-auto">
+        <div class="bg-blue-600 p-16 rounded-[4rem] text-white relative overflow-hidden text-center">
+            <h2 class="text-5xl font-black uppercase italic mb-6 leading-none">The Eneka Command Center</h2>
+            <p class="text-xl font-bold opacity-80 mb-12">No. 1 Igbo-Etche Road, 1st Market Junction, Eneka, Port Harcourt.</p>
+            <div class="flex flex-wrap justify-center gap-12 border-t border-white/20 pt-12">
+                <div><p class="text-[10px] font-black uppercase mb-2 opacity-60">Official Line</p><p class="text-2xl font-black">+234 813 064 8308</p></div>
+                <div><p class="text-[10px] font-black uppercase mb-2 opacity-60">Chairman DL</p><p class="text-2xl font-black">+234 803 950 8520</p></div>
+                <div><p class="text-[10px] font-black uppercase mb-2 opacity-60">Admin Email</p><p class="text-2xl font-black">info@ecoletgroup.com</p></div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="py-16 text-center border-t border-white/5 mt-12">
+        <p class="text-[10px] font-black text-slate-800 uppercase tracking-[1em]">
+            ECOLET GROUP GLOBAL • FOREX • GOLD • CRYPTO • SYNTHETICS
+        </p>
+    </footer>
+
+    <div class="lg:hidden fixed bottom-6 right-6 z-[2001]">
+        <a href="https://wa.me/2348130648308" class="bg-emerald-500 text-white w-16 h-16 rounded-full flex items-center justify-center text-2xl shadow-2xl animate-bounce">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+
+</body>
+</html>
